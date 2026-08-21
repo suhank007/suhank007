@@ -6,7 +6,7 @@
 
 <br><br>
 
-<h3><code>$ whoami</code></h3>
+<h3><code>Whoami</code></h3>
 
 <table>
 <tr>
