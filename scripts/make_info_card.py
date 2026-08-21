@@ -14,8 +14,6 @@ VALUE = "#c9d1d9"
 DIM = "#6e7681"
 ACCENT = "#39d353"
 
-TITLE = "avi@github"
-
 ROWS = [
     ("Now", "BI & Analytics Lead @ Atlas Copco"),
     ("Prev", "9 yrs enterprise BI · 5 global industries"),
@@ -90,7 +88,6 @@ def build_svg(static: bool) -> str:
   <circle cx="24" cy="17" r="6" fill="#ff5f56"/>
   <circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
   <circle cx="64" cy="17" r="6" fill="#27c93f"/>
-  <text x="{WIDTH / 2}" y="21" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" fill="{DIM}">{esc(TITLE)}</text>
   <line x1="28" y1="58" x2="{WIDTH - 28}" y2="58" stroke="{BORDER}"/>
 {chr(10).join(rows_svg)}
 {cursor}
