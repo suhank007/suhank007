@@ -1,0 +1,5 @@
+.venv/
+source-prepped.png
+preview.html
+__pycache__/
+*.pyc

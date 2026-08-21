@@ -1,0 +1,913 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="837" viewBox="0 0 480.0 837.2">
+  <rect x="0" y="0" width="480.0" height="837.2" fill="#0d1117"/>
+<clipPath id="clip0">
+  <rect x="0" y="0.0" width="0" height="9.2">
+    <animate id="wipe0" attributeName="width" from="0" to="480.0" dur="220ms" begin="0ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="7.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip0)">                                                                                                    </text>
+<rect x="0" y="0.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="0ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="0ms" fill="freeze"/>
+</rect>
+<clipPath id="clip1">
+  <rect x="0" y="9.2" width="0" height="9.2">
+    <animate id="wipe1" attributeName="width" from="0" to="480.0" dur="220ms" begin="34ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="16.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip1)">                                                                                                    </text>
+<rect x="0" y="9.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="34ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="34ms" fill="freeze"/>
+</rect>
+<clipPath id="clip2">
+  <rect x="0" y="18.4" width="0" height="9.2">
+    <animate id="wipe2" attributeName="width" from="0" to="480.0" dur="220ms" begin="68ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="25.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip2)">                                                                                                    </text>
+<rect x="0" y="18.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="68ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="68ms" fill="freeze"/>
+</rect>
+<clipPath id="clip3">
+  <rect x="0" y="27.599999999999998" width="0" height="9.2">
+    <animate id="wipe3" attributeName="width" from="0" to="480.0" dur="220ms" begin="102ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="35.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip3)">                                                                                                    </text>
+<rect x="0" y="27.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="102ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="102ms" fill="freeze"/>
+</rect>
+<clipPath id="clip4">
+  <rect x="0" y="36.8" width="0" height="9.2">
+    <animate id="wipe4" attributeName="width" from="0" to="480.0" dur="220ms" begin="136ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="44.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip4)">                                                                                                    </text>
+<rect x="0" y="36.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="136ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="136ms" fill="freeze"/>
+</rect>
+<clipPath id="clip5">
+  <rect x="0" y="46.0" width="0" height="9.2">
+    <animate id="wipe5" attributeName="width" from="0" to="480.0" dur="220ms" begin="170ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="53.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip5)">                                                                                                    </text>
+<rect x="0" y="46.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="170ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="170ms" fill="freeze"/>
+</rect>
+<clipPath id="clip6">
+  <rect x="0" y="55.199999999999996" width="0" height="9.2">
+    <animate id="wipe6" attributeName="width" from="0" to="480.0" dur="220ms" begin="204ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="62.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip6)">                                                                                                    </text>
+<rect x="0" y="55.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="204ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="204ms" fill="freeze"/>
+</rect>
+<clipPath id="clip7">
+  <rect x="0" y="64.39999999999999" width="0" height="9.2">
+    <animate id="wipe7" attributeName="width" from="0" to="480.0" dur="220ms" begin="238ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="71.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip7)">                                                                                                    </text>
+<rect x="0" y="64.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="238ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="238ms" fill="freeze"/>
+</rect>
+<clipPath id="clip8">
+  <rect x="0" y="73.6" width="0" height="9.2">
+    <animate id="wipe8" attributeName="width" from="0" to="480.0" dur="220ms" begin="272ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="81.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip8)">                                                                                                    </text>
+<rect x="0" y="73.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="272ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="272ms" fill="freeze"/>
+</rect>
+<clipPath id="clip9">
+  <rect x="0" y="82.8" width="0" height="9.2">
+    <animate id="wipe9" attributeName="width" from="0" to="480.0" dur="220ms" begin="306ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="90.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip9)">                                                                                                    </text>
+<rect x="0" y="82.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="306ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="306ms" fill="freeze"/>
+</rect>
+<clipPath id="clip10">
+  <rect x="0" y="92.0" width="0" height="9.2">
+    <animate id="wipe10" attributeName="width" from="0" to="480.0" dur="220ms" begin="340ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="99.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip10)">                                             ...                                                    </text>
+<rect x="0" y="92.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="340ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="340ms" fill="freeze"/>
+</rect>
+<clipPath id="clip11">
+  <rect x="0" y="101.19999999999999" width="0" height="9.2">
+    <animate id="wipe11" attributeName="width" from="0" to="480.0" dur="220ms" begin="374ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="108.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip11)">                                      ..:-=*cscc**+:`....                                           </text>
+<rect x="0" y="101.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="374ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="374ms" fill="freeze"/>
+</rect>
+<clipPath id="clip12">
+  <rect x="0" y="110.39999999999999" width="0" height="9.2">
+    <animate id="wipe12" attributeName="width" from="0" to="480.0" dur="220ms" begin="408ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="117.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip12)">                                     .+sss#%%%%%%%%%%%%#c-.                                         </text>
+<rect x="0" y="110.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="408ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="408ms" fill="freeze"/>
+</rect>
+<clipPath id="clip13">
+  <rect x="0" y="119.6" width="0" height="9.2">
+    <animate id="wipe13" attributeName="width" from="0" to="480.0" dur="220ms" begin="442ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="127.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip13)">                                   .:c###%##########%%%%%%+.                                        </text>
+<rect x="0" y="119.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="442ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="442ms" fill="freeze"/>
+</rect>
+<clipPath id="clip14">
+  <rect x="0" y="128.79999999999998" width="0" height="9.2">
+    <animate id="wipe14" attributeName="width" from="0" to="480.0" dur="220ms" begin="476ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="136.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip14)">                                   `c#########%%%%%@@%%#%%%*.                                       </text>
+<rect x="0" y="128.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="476ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="476ms" fill="freeze"/>
+</rect>
+<clipPath id="clip15">
+  <rect x="0" y="138.0" width="0" height="9.2">
+    <animate id="wipe15" attributeName="width" from="0" to="480.0" dur="220ms" begin="510ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="145.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip15)">                                   .*%%sc**++++++*cs##%@@@@@c.                                      </text>
+<rect x="0" y="138.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="510ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="510ms" fill="freeze"/>
+</rect>
+<clipPath id="clip16">
+  <rect x="0" y="147.2" width="0" height="9.2">
+    <animate id="wipe16" attributeName="width" from="0" to="480.0" dur="220ms" begin="544ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="154.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip16)">                                   -#s+--::::::::---=++cs#@@@=.                                     </text>
+<rect x="0" y="147.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="544ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="544ms" fill="freeze"/>
+</rect>
+<clipPath id="clip17">
+  <rect x="0" y="156.39999999999998" width="0" height="9.2">
+    <animate id="wipe17" attributeName="width" from="0" to="480.0" dur="220ms" begin="578ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="163.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip17)">                                  `#c=-:````````::::-===++s%%%#.                                    </text>
+<rect x="0" y="156.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="578ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="578ms" fill="freeze"/>
+</rect>
+<clipPath id="clip18">
+  <rect x="0" y="165.6" width="0" height="9.2">
+    <animate id="wipe18" attributeName="width" from="0" to="480.0" dur="220ms" begin="612ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="173.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip18)">                                  =s=-:```....````::---==+c%@@@*                                    </text>
+<rect x="0" y="165.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="612ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="612ms" fill="freeze"/>
+</rect>
+<clipPath id="clip19">
+  <rect x="0" y="174.79999999999998" width="0" height="9.2">
+    <animate id="wipe19" attributeName="width" from="0" to="480.0" dur="220ms" begin="646ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="182.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip19)">                                  cc-::::::``.``::::---==+c%%@@c                                    </text>
+<rect x="0" y="174.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="646ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="646ms" fill="freeze"/>
+</rect>
+<clipPath id="clip20">
+  <rect x="0" y="184.0" width="0" height="9.2">
+    <animate id="wipe20" attributeName="width" from="0" to="480.0" dur="220ms" begin="680ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="191.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip20)">                                 .s==*cccc**=`:-+cccccc*++*#%@@+                                    </text>
+<rect x="0" y="184.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="680ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="680ms" fill="freeze"/>
+</rect>
+<clipPath id="clip21">
+  <rect x="0" y="193.2" width="0" height="9.2">
+    <animate id="wipe21" attributeName="width" from="0" to="480.0" dur="220ms" begin="714ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="200.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip21)">                                 .c=c+--=+++-:=***+==*css**c%%@-                                    </text>
+<rect x="0" y="193.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="714ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="714ms" fill="freeze"/>
+</rect>
+<clipPath id="clip22">
+  <rect x="0" y="202.39999999999998" width="0" height="9.2">
+    <animate id="wipe22" attributeName="width" from="0" to="480.0" dur="220ms" begin="748ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="209.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip22)">                                :=*--+**cc*=``=*++=*c*******#%#=`                                   </text>
+<rect x="0" y="202.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="748ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="748ms" fill="freeze"/>
+</rect>
+<clipPath id="clip23">
+  <rect x="0" y="211.6" width="0" height="9.2">
+    <animate id="wipe23" attributeName="width" from="0" to="480.0" dur="220ms" begin="782ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="219.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip23)">                                -+=:::----::`:===::---==--+*##ccc`                                  </text>
+<rect x="0" y="211.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="782ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="782ms" fill="freeze"/>
+</rect>
+<clipPath id="clip24">
+  <rect x="0" y="220.79999999999998" width="0" height="9.2">
+    <animate id="wipe24" attributeName="width" from="0" to="480.0" dur="220ms" begin="816ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="228.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip24)">                                `--:`````````:=+=:``````-=+*ssc**`                                  </text>
+<rect x="0" y="220.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="816ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="816ms" fill="freeze"/>
+</rect>
+<clipPath id="clip25">
+  <rect x="0" y="229.99999999999997" width="0" height="9.2">
+    <animate id="wipe25" attributeName="width" from="0" to="480.0" dur="220ms" begin="850ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="237.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip25)">                                 --:```:=:===*c**=`..``:-+**sss*-                                   </text>
+<rect x="0" y="230.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="850ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="850ms" fill="freeze"/>
+</rect>
+<clipPath id="clip26">
+  <rect x="0" y="239.2" width="0" height="9.2">
+    <animate id="wipe26" attributeName="width" from="0" to="480.0" dur="220ms" begin="884ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="246.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip26)">                                 -=:::+*+cs*+*s#s*=:``:-=**c#sc+.                                   </text>
+<rect x="0" y="239.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="884ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="884ms" fill="freeze"/>
+</rect>
+<clipPath id="clip27">
+  <rect x="0" y="248.39999999999998" width="0" height="9.2">
+    <animate id="wipe27" attributeName="width" from="0" to="480.0" dur="220ms" begin="918ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="255.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip27)">                                 -+---ssc*+=-+*ccs#s*:-=+*c#%s*`                                    </text>
+<rect x="0" y="248.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="918ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="918ms" fill="freeze"/>
+</rect>
+<clipPath id="clip28">
+  <rect x="0" y="257.59999999999997" width="0" height="9.2">
+    <animate id="wipe28" attributeName="width" from="0" to="480.0" dur="220ms" begin="952ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="265.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip28)">                                 `s*==#+==:```:-=*c*s--+cc###*:                                     </text>
+<rect x="0" y="257.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="952ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="952ms" fill="freeze"/>
+</rect>
+<clipPath id="clip29">
+  <rect x="0" y="266.79999999999995" width="0" height="9.2">
+    <animate id="wipe29" attributeName="width" from="0" to="480.0" dur="220ms" begin="986ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="274.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip29)">                                 .csc*c=-=+***+**+++c**cs#%%c.                                      </text>
+<rect x="0" y="266.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="986ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="986ms" fill="freeze"/>
+</rect>
+<clipPath id="clip30">
+  <rect x="0" y="276.0" width="0" height="9.2">
+    <animate id="wipe30" attributeName="width" from="0" to="480.0" dur="220ms" begin="1020ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="283.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip30)">                                  `#%##c**cscss#c**s####%%@#-                                       </text>
+<rect x="0" y="276.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1020ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1020ms" fill="freeze"/>
+</rect>
+<clipPath id="clip31">
+  <rect x="0" y="285.2" width="0" height="9.2">
+    <animate id="wipe31" attributeName="width" from="0" to="480.0" dur="220ms" begin="1054ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="292.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip31)">                                   `c%%%#sscs##%%%%%@@@@@%s*--.                                     </text>
+<rect x="0" y="285.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1054ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1054ms" fill="freeze"/>
+</rect>
+<clipPath id="clip32">
+  <rect x="0" y="294.4" width="0" height="9.2">
+    <animate id="wipe32" attributeName="width" from="0" to="480.0" dur="220ms" begin="1088ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="301.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip32)">                                    .+%%%%%%%@%%@@@@@@@%s*=--#s.                                    </text>
+<rect x="0" y="294.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1088ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1088ms" fill="freeze"/>
+</rect>
+<clipPath id="clip33">
+  <rect x="0" y="303.59999999999997" width="0" height="9.2">
+    <animate id="wipe33" attributeName="width" from="0" to="480.0" dur="220ms" begin="1122ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="311.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip33)">                                      :*#%@@@@@@@@@%%#c+---=s@@s:                                   </text>
+<rect x="0" y="303.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1122ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1122ms" fill="freeze"/>
+</rect>
+<clipPath id="clip34">
+  <rect x="0" y="312.79999999999995" width="0" height="9.2">
+    <animate id="wipe34" attributeName="width" from="0" to="480.0" dur="220ms" begin="1156ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="320.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip34)">                                    .`:++*css#ssssss*=:::-=#%@%%%c`                                 </text>
+<rect x="0" y="312.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1156ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1156ms" fill="freeze"/>
+</rect>
+<clipPath id="clip35">
+  <rect x="0" y="322.0" width="0" height="9.2">
+    <animate id="wipe35" attributeName="width" from="0" to="480.0" dur="220ms" begin="1190ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="329.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip35)">                                   .`:=*+++*cccc*+-::::::*%%%%%%%%%s+-.                             </text>
+<rect x="0" y="322.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1190ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1190ms" fill="freeze"/>
+</rect>
+<clipPath id="clip36">
+  <rect x="0" y="331.2" width="0" height="9.2">
+    <animate id="wipe36" attributeName="width" from="0" to="480.0" dur="220ms" begin="1224ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="338.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip36)">                                 .``::=c*=++**+-```:::::c#%%%%###%#####*=`.                         </text>
+<rect x="0" y="331.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1224ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1224ms" fill="freeze"/>
+</rect>
+<clipPath id="clip37">
+  <rect x="0" y="340.4" width="0" height="9.2">
+    <animate id="wipe37" attributeName="width" from="0" to="480.0" dur="220ms" begin="1258ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="347.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip37)">                              .-**::--=s+====-```:::::-cs#####ss%##ssssssss+-`.                     </text>
+<rect x="0" y="340.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1258ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1258ms" fill="freeze"/>
+</rect>
+<clipPath id="clip38">
+  <rect x="0" y="349.59999999999997" width="0" height="9.2">
+    <animate id="wipe38" attributeName="width" from="0" to="480.0" dur="220ms" begin="1292ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="357.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip38)">                         ..-+s###=-:--=c+=-==-:::::`:=ssssssss###sssssssssssscc+=:.                 </text>
+<rect x="0" y="349.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1292ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1292ms" fill="freeze"/>
+</rect>
+<clipPath id="clip39">
+  <rect x="0" y="358.79999999999995" width="0" height="9.2">
+    <animate id="wipe39" attributeName="width" from="0" to="480.0" dur="220ms" begin="1326ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="366.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip39)">                       `+s#######*--=-:*==:-:::::``:=csccccs#ssssccccccccccccccccc*+-.              </text>
+<rect x="0" y="358.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1326ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1326ms" fill="freeze"/>
+</rect>
+<clipPath id="clip40">
+  <rect x="0" y="368.0" width="0" height="9.2">
+    <animate id="wipe40" attributeName="width" from="0" to="480.0" dur="220ms" begin="1360ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="375.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip40)">                     .+#########s#=+`-`=+-:----````+sscccccccssccccccc*****c*cc**cs###c-.           </text>
+<rect x="0" y="368.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1360ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1360ms" fill="freeze"/>
+</rect>
+<clipPath id="clip41">
+  <rect x="0" y="377.2" width="0" height="9.2">
+    <animate id="wipe41" attributeName="width" from="0" to="480.0" dur="220ms" begin="1394ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="384.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip41)">                     +#s#######ss%c`.``:+----:`..`*sscc**ccc##ccc**************cs#%%%%%%*.          </text>
+<rect x="0" y="377.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1394ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1394ms" fill="freeze"/>
+</rect>
+<clipPath id="clip42">
+  <rect x="0" y="386.4" width="0" height="9.2">
+    <animate id="wipe42" attributeName="width" from="0" to="480.0" dur="220ms" begin="1428ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="393.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip42)">                    :#ssss####ss%s:``.`::--:`...`*ssccccccc#scc****++++++++***cs##%%%@@%%*.         </text>
+<rect x="0" y="386.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1428ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1428ms" fill="freeze"/>
+</rect>
+<clipPath id="clip43">
+  <rect x="0" y="395.59999999999997" width="0" height="9.2">
+    <animate id="wipe43" attributeName="width" from="0" to="480.0" dur="220ms" begin="1462ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="403.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip43)">                   .c#ssss###ss%s=````::```..`.`cssscccc*s#c*****+++++++++*+*css##%%%@@%%@-         </text>
+<rect x="0" y="395.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1462ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1462ms" fill="freeze"/>
+</rect>
+<clipPath id="clip44">
+  <rect x="0" y="404.79999999999995" width="0" height="9.2">
+    <animate id="wipe44" attributeName="width" from="0" to="480.0" dur="220ms" begin="1496ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="412.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip44)">                   -#sscs####s%#*``````.....``:csssccccc#c****+++++++++++*+*css##%%%%@@@@@#.        </text>
+<rect x="0" y="404.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1496ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1496ms" fill="freeze"/>
+</rect>
+<clipPath id="clip45">
+  <rect x="0" y="413.99999999999994" width="0" height="9.2">
+    <animate id="wipe45" attributeName="width" from="0" to="480.0" dur="220ms" begin="1530ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="421.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip45)">                   *scccs###c%#c:````....````=csssccccc#***+++++++++++++*+*css###%%%%%%@@@@-        </text>
+<rect x="0" y="414.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1530ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1530ms" fill="freeze"/>
+</rect>
+<clipPath id="clip46">
+  <rect x="0" y="423.2" width="0" height="9.2">
+    <animate id="wipe46" attributeName="width" from="0" to="480.0" dur="220ms" begin="1564ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="430.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip46)">                  .csccs###s%%s=```....````:*ssssccccss**+++++++++++++***+ccsss###%%%%%%@@@c        </text>
+<rect x="0" y="423.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1564ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1564ms" fill="freeze"/>
+</rect>
+<clipPath id="clip47">
+  <rect x="0" y="432.4" width="0" height="9.2">
+    <animate id="wipe47" attributeName="width" from="0" to="480.0" dur="220ms" begin="1598ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="439.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip47)">                  :ccccs##ss%sc:``.....```+ssssscccc#c**+++++++++++++*cc+*ccccss###%%%%%%%%%.       </text>
+<rect x="0" y="432.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1598ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1598ms" fill="freeze"/>
+</rect>
+<clipPath id="clip48">
+  <rect x="0" y="441.59999999999997" width="0" height="9.2">
+    <animate id="wipe48" attributeName="width" from="0" to="480.0" dur="220ms" begin="1632ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="449.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip48)">                  =cccs###c%sc*```....``:*csssscccc#c**++++++***+++**cs**ccccccss###%%%%%%%%:       </text>
+<rect x="0" y="441.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1632ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1632ms" fill="freeze"/>
+</rect>
+<clipPath id="clip49">
+  <rect x="0" y="450.79999999999995" width="0" height="9.2">
+    <animate id="wipe49" attributeName="width" from="0" to="480.0" dur="220ms" begin="1666ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="458.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip49)">                  +cccss#c##cc+```...``=cccssccccc#****+++++*****+**css+****cccss#####%%%%%%+       </text>
+<rect x="0" y="450.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1666ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1666ms" fill="freeze"/>
+</rect>
+<clipPath id="clip50">
+  <rect x="0" y="459.99999999999994" width="0" height="9.2">
+    <animate id="wipe50" attributeName="width" from="0" to="480.0" dur="220ms" begin="1700ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="467.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip50)">                 .*cccsssc%scc+``....:+ccccsccccs#******+****ccc***c#%c+***ccccss#####%%%%%%s.      </text>
+<rect x="0" y="460.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1700ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1700ms" fill="freeze"/>
+</rect>
+<clipPath id="clip51">
+  <rect x="0" y="469.2" width="0" height="9.2">
+    <animate id="wipe51" attributeName="width" from="0" to="480.0" dur="220ms" begin="1734ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="476.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip51)">                 `c*csssc##ccc*:`..`:*ccccccccc#s********cccssss#cc#%%++**ccccsss######%%%@@%`      </text>
+<rect x="0" y="469.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1734ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1734ms" fill="freeze"/>
+</rect>
+<clipPath id="clip52">
+  <rect x="0" y="478.4" width="0" height="9.2">
+    <animate id="wipe52" attributeName="width" from="0" to="480.0" dur="220ms" begin="1768ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="485.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip52)">                 -c*csssc%scccc-`.`=cccccccccc#c*****cccccccsss##cs#%#+*****cccss#####%%%%%@@+      </text>
+<rect x="0" y="478.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1768ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1768ms" fill="freeze"/>
+</rect>
+<clipPath id="clip53">
+  <rect x="0" y="487.59999999999997" width="0" height="9.2">
+    <animate id="wipe53" attributeName="width" from="0" to="480.0" dur="220ms" begin="1802ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="495.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip53)">                 +cccsscs@scccc+``+cccc**c*cc%s*****cccccccss##%scs%@#*++***ccccs#####%%%%%%@*      </text>
+<rect x="0" y="487.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1802ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1802ms" fill="freeze"/>
+</rect>
+<clipPath id="clip54">
+  <rect x="0" y="496.79999999999995" width="0" height="9.2">
+    <animate id="wipe54" attributeName="width" from="0" to="480.0" dur="220ms" begin="1836ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="504.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip54)">                .cc*cccc#%ccccc*=*cccc*****c%#ccccccccccssss####ss#%@#+*****ccccsss####%%%%@%+      </text>
+<rect x="0" y="496.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1836ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1836ms" fill="freeze"/>
+</rect>
+<clipPath id="clip55">
+  <rect x="0" y="505.99999999999994" width="0" height="9.2">
+    <animate id="wipe55" attributeName="width" from="0" to="480.0" dur="220ms" begin="1870ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="513.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip55)">                `sc*cccc%%scc***sscc******c%#**ccccccccssss#####ss#%@%********ccsss####%%%%@@+      </text>
+<rect x="0" y="506.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1870ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1870ms" fill="freeze"/>
+</rect>
+<clipPath id="clip56">
+  <rect x="0" y="515.1999999999999" width="0" height="9.2">
+    <animate id="wipe56" attributeName="width" from="0" to="480.0" dur="220ms" begin="1904ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="522.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip56)">                -sc*cccs@%sscccccccc*****s@%c**ccccccccssss##%#####%@%********ccssss###%%%%%@#      </text>
+<rect x="0" y="515.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1904ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1904ms" fill="freeze"/>
+</rect>
+<clipPath id="clip57">
+  <rect x="0" y="524.4" width="0" height="9.2">
+    <animate id="wipe57" attributeName="width" from="0" to="480.0" dur="220ms" begin="1938ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="531.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip57)">                +sc****#@%sccc**cccc*+**s@%s***ccccccsssss##%%%###%%@%c********cssss###%%%%%%%.     </text>
+<rect x="0" y="524.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1938ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1938ms" fill="freeze"/>
+</rect>
+<clipPath id="clip58">
+  <rect x="0" y="533.5999999999999" width="0" height="9.2">
+    <animate id="wipe58" attributeName="width" from="0" to="480.0" dur="220ms" begin="1972ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="541.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip58)">               .csc***c%@%cc***c****++*s@%#c**cccccssssss##%%%%###%%@@cc*******css######%%%%%%:     </text>
+<rect x="0" y="533.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="1972ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="1972ms" fill="freeze"/>
+</rect>
+<clipPath id="clip59">
+  <rect x="0" y="542.8" width="0" height="9.2">
+    <animate id="wipe59" attributeName="width" from="0" to="480.0" dur="220ms" begin="2006ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="550.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip59)">               .csc***s@@#c********++*#@@#sc*ccccccsssss###%%%%%#%%%@@sccc*****css######%%%%%%=     </text>
+<rect x="0" y="542.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2006ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2006ms" fill="freeze"/>
+</rect>
+<clipPath id="clip60">
+  <rect x="0" y="552.0" width="0" height="9.2">
+    <animate id="wipe60" attributeName="width" from="0" to="480.0" dur="220ms" begin="2040ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="559.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip60)">               :csc***%@@#********+++#@@%sc**cccccssssss###%%%%%%%%%@@#ccc*****css######%%%%%%*     </text>
+<rect x="0" y="552.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2040ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2040ms" fill="freeze"/>
+</rect>
+<clipPath id="clip61">
+  <rect x="0" y="561.1999999999999" width="0" height="9.2">
+    <animate id="wipe61" attributeName="width" from="0" to="480.0" dur="220ms" begin="2074ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="568.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip61)">               =sss++c@@%s********++#@@%#sc**ccccsssssss##%%%%%%%%%%%@%ccc*****css######%%%%%@s     </text>
+<rect x="0" y="561.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2074ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2074ms" fill="freeze"/>
+</rect>
+<clipPath id="clip62">
+  <rect x="0" y="570.4" width="0" height="9.2">
+    <animate id="wipe62" attributeName="width" from="0" to="480.0" dur="220ms" begin="2108ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="577.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip62)">              .*css+*s@@%s***cc**++%@@%#sc***ccccsssss#s##%%%%%%%%%%%@@sc******css######%%%%%@%`    </text>
+<rect x="0" y="570.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2108ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2108ms" fill="freeze"/>
+</rect>
+<clipPath id="clip63">
+  <rect x="0" y="579.5999999999999" width="0" height="9.2">
+    <animate id="wipe63" attributeName="width" from="0" to="480.0" dur="220ms" begin="2142ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="587.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip63)">              :ccsc+*%@@%s**+*c*++%@@%#ssc**ccccssssss####%%%%%%%%%%%@@#c*****cssss###%%%%%%%@@+    </text>
+<rect x="0" y="579.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2142ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2142ms" fill="freeze"/>
+</rect>
+<clipPath id="clip64">
+  <rect x="0" y="588.8" width="0" height="9.2">
+    <animate id="wipe64" attributeName="width" from="0" to="480.0" dur="220ms" begin="2176ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="596.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip64)">              =cccc*s@@@#c***+++*%@@%%#scccccccsssssss###%%%%%%%%%%%%@@%cc***cs####s###%%%%%%%@c    </text>
+<rect x="0" y="588.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2176ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2176ms" fill="freeze"/>
+</rect>
+<clipPath id="clip65">
+  <rect x="0" y="598.0" width="0" height="9.2">
+    <animate id="wipe65" attributeName="width" from="0" to="480.0" dur="220ms" begin="2210ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="605.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip65)">              =*cccc%@@@#c*****c@@%%%#ssccccccssssss#####%%%%%%%%%%%%@@@sc****ccss######%%%%%%@%.   </text>
+<rect x="0" y="598.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2210ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2210ms" fill="freeze"/>
+</rect>
+<clipPath id="clip66">
+  <rect x="0" y="607.1999999999999" width="0" height="9.2">
+    <animate id="wipe66" attributeName="width" from="0" to="480.0" dur="220ms" begin="2244ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="614.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip66)">             `*s##ss@@@@#c****c@@%%%#ssccccccsssssss#####%%%%%%%%%%%%@@@#c**cc**ccss####%%%%%%@%`   </text>
+<rect x="0" y="607.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2244ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2244ms" fill="freeze"/>
+</rect>
+<clipPath id="clip67">
+  <rect x="0" y="616.4" width="0" height="9.2">
+    <animate id="wipe67" attributeName="width" from="0" to="480.0" dur="220ms" begin="2278ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="623.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip67)">             =ssss*s@@@@#c*c*c#@%%%##scccccssssssss#####%%%%%%%%%%%%%@@@%*csssssc**css##%%%%%%@@-   </text>
+<rect x="0" y="616.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2278ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2278ms" fill="freeze"/>
+</rect>
+<clipPath id="clip68">
+  <rect x="0" y="625.5999999999999" width="0" height="9.2">
+    <animate id="wipe68" attributeName="width" from="0" to="480.0" dur="220ms" begin="2312ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="633.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip68)">            .*cccc*#@@@%#***cc#@%%##ssccccssssss########%%%%%%%%%%%%%@@@@s#########sccss#%%%%@@@*   </text>
+<rect x="0" y="625.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2312ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2312ms" fill="freeze"/>
+</rect>
+<clipPath id="clip69">
+  <rect x="0" y="634.8" width="0" height="9.2">
+    <animate id="wipe69" attributeName="width" from="0" to="480.0" dur="220ms" begin="2346ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="642.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip69)">            `csccc*#@@@%s****+%%####ssccccsssssss#######%%%%%%%%%%%%%%@@@%cccc*****csss####%%%@@c   </text>
+<rect x="0" y="634.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2346ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2346ms" fill="freeze"/>
+</rect>
+<clipPath id="clip70">
+  <rect x="0" y="644.0" width="0" height="9.2">
+    <animate id="wipe70" attributeName="width" from="0" to="480.0" dur="220ms" begin="2380ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="651.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip70)">            +ccccc+%@@@%s*****%%####sscccccsssssssss#####%%%%%%%%%%%%%@@@@@@%*+++*ccss#@%%%%%%%@c   </text>
+<rect x="0" y="644.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2380ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2380ms" fill="freeze"/>
+</rect>
+<clipPath id="clip71">
+  <rect x="0" y="653.1999999999999" width="0" height="9.2">
+    <animate id="wipe71" attributeName="width" from="0" to="480.0" dur="220ms" begin="2414ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="660.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip71)">           .ccsccc+%@@@%s*****%%%###sssccccsssssssss#%###%%%%%%%%%%%%%@@@@@#sscc*s%%%%%%%%@@@@@@*   </text>
+<rect x="0" y="653.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2414ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2414ms" fill="freeze"/>
+</rect>
+<clipPath id="clip72">
+  <rect x="0" y="662.4" width="0" height="9.2">
+    <animate id="wipe72" attributeName="width" from="0" to="480.0" dur="220ms" begin="2448ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="669.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip72)">           :cccccc*%@@@%s*****%%%%##ssscccccssssssss#%s#%%%%%%%%%%%%%%@@@@scsscsscsss###%%%%%@@@-   </text>
+<rect x="0" y="662.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2448ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2448ms" fill="freeze"/>
+</rect>
+<clipPath id="clip73">
+  <rect x="0" y="671.5999999999999" width="0" height="9.2">
+    <animate id="wipe73" attributeName="width" from="0" to="480.0" dur="220ms" begin="2482ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="679.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip73)">           =csssssc@@@@%s*ccc*%%%%%##sscccccccssss##%%#%%%%%%%######%%@@@#+++++++*s######%%%@@@#.   </text>
+<rect x="0" y="671.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2482ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2482ms" fill="freeze"/>
+</rect>
+<clipPath id="clip74">
+  <rect x="0" y="680.8" width="0" height="9.2">
+    <animate id="wipe74" attributeName="width" from="0" to="480.0" dur="220ms" begin="2516ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="688.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip74)">          .cssssccs@@@@#c*+cc*%%%%%##ssccccccssss##%%%%%%%%##########%%@@s*++++*c#%%%%%%%%%@@@#`    </text>
+<rect x="0" y="680.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2516ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2516ms" fill="freeze"/>
+</rect>
+<clipPath id="clip75">
+  <rect x="0" y="690.0" width="0" height="9.2">
+    <animate id="wipe75" attributeName="width" from="0" to="480.0" dur="220ms" begin="2550ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="697.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip75)">          :ssssssc#@@@%#c**+**#%%%%##ssccccssss###%%%#%%%###########%%%@%*+++*s#%######%%%@@@@:     </text>
+<rect x="0" y="690.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2550ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2550ms" fill="freeze"/>
+</rect>
+<clipPath id="clip76">
+  <rect x="0" y="699.1999999999999" width="0" height="9.2">
+    <animate id="wipe76" attributeName="width" from="0" to="480.0" dur="220ms" begin="2584ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="706.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip76)">          =sscsssc%@@@%s******#%%%%%#ssscssss####%%%##%%##s#########%%%%***cccccccccss#%%@@@@c      </text>
+<rect x="0" y="699.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2584ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2584ms" fill="freeze"/>
+</rect>
+<clipPath id="clip77">
+  <rect x="0" y="708.4" width="0" height="9.2">
+    <animate id="wipe77" attributeName="width" from="0" to="480.0" dur="220ms" begin="2618ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="715.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip77)">          *sssssss@@@@%s*cc***#%%%%%#ssssss##############sssssssss##%%@*****ccccc**cs#%%@@@@%`      </text>
+<rect x="0" y="708.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2618ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2618ms" fill="freeze"/>
+</rect>
+<clipPath id="clip78">
+  <rect x="0" y="717.5999999999999" width="0" height="9.2">
+    <animate id="wipe78" attributeName="width" from="0" to="480.0" dur="220ms" begin="2652ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="725.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip78)">         .csssccs#@@@@%s*cccc*#%%%%%#ssssss######sscccccccccsssss##%%@#*++**ccscc*c#%%@@@@@%=       </text>
+<rect x="0" y="717.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2652ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2652ms" fill="freeze"/>
+</rect>
+<clipPath id="clip79">
+  <rect x="0" y="726.8" width="0" height="9.2">
+    <animate id="wipe79" attributeName="width" from="0" to="480.0" dur="220ms" begin="2686ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="734.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip79)">         =###sss##@@@@%c*c*sc*s%%%##############ss#scssccssssssss##%@@%******+**c#%@@@%%@@@+        </text>
+<rect x="0" y="726.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2686ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2686ms" fill="freeze"/>
+</rect>
+<clipPath id="clip80">
+  <rect x="0" y="736.0" width="0" height="9.2">
+    <animate id="wipe80" attributeName="width" from="0" to="480.0" dur="220ms" begin="2720ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="743.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip80)">        .sssccs###@@@@%c*+c***s%%%%%%#######%#####%#csssssssssss##%@@@s***ccs#%%%%%%%%%%@%c.        </text>
+<rect x="0" y="736.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2720ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2720ms" fill="freeze"/>
+</rect>
+<clipPath id="clip81">
+  <rect x="0" y="745.1999999999999" width="0" height="9.2">
+    <animate id="wipe81" attributeName="width" from="0" to="480.0" dur="220ms" begin="2754ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="752.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip81)">        .sss###%#%@@@@%c****ccc%%%%%%######%%%%###%%ssss####%%%%%@@@scs###sssssssss#%%%@%s.         </text>
+<rect x="0" y="745.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2754ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2754ms" fill="freeze"/>
+</rect>
+<clipPath id="clip82">
+  <rect x="0" y="754.4" width="0" height="9.2">
+    <animate id="wipe82" attributeName="width" from="0" to="480.0" dur="220ms" begin="2788ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="761.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip82)">        :ssssss#s@@@@@%c*c#cccc#%%%%%%#####%%%%###%%%%@@@@@@@@@@@@@c**++*cssssss#%%%%@@@#`          </text>
+<rect x="0" y="754.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2788ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2788ms" fill="freeze"/>
+</rect>
+<clipPath id="clip83">
+  <rect x="0" y="763.5999999999999" width="0" height="9.2">
+    <animate id="wipe83" attributeName="width" from="0" to="480.0" dur="220ms" begin="2822ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="771.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip83)">        =sssss###@@@@@%c*@@%ccc#%%%%%%%%%#%%%%%######%%@@@@@@@@@@%sc*****ccs###%%%%%%%@%:           </text>
+<rect x="0" y="763.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2822ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2822ms" fill="freeze"/>
+</rect>
+<clipPath id="clip84">
+  <rect x="0" y="772.8" width="0" height="9.2">
+    <animate id="wipe84" attributeName="width" from="0" to="480.0" dur="220ms" begin="2856ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="780.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip84)">        *ss###%%#@@@@@#*#@@@%ccc#%%%%%%%%%%%%%%%#####%@@@@@%%%%#s**c++*css#%%%%%%%%%%%%*            </text>
+<rect x="0" y="772.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2856ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2856ms" fill="freeze"/>
+</rect>
+<clipPath id="clip85">
+  <rect x="0" y="781.9999999999999" width="0" height="9.2">
+    <animate id="wipe85" attributeName="width" from="0" to="480.0" dur="220ms" begin="2890ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="789.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip85)">       .ssss#####@@@@@%c%@@@@#cc#%%%%%%%%%%%%%%%%%#%%@@@@%#ssss*+#****ssccssssscss#%%%#.            </text>
+<rect x="0" y="782.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2890ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2890ms" fill="freeze"/>
+</rect>
+<clipPath id="clip86">
+  <rect x="0" y="791.1999999999999" width="0" height="9.2">
+    <animate id="wipe86" attributeName="width" from="0" to="480.0" dur="220ms" begin="2924ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="798.6" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip86)">       :s#s#####%@@@@@@%@@@@%%scs%%%%%%%%#########%%%@%#cccccc++#%+***cs#sss#####%%%%%:             </text>
+<rect x="0" y="791.2" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2924ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2924ms" fill="freeze"/>
+</rect>
+<clipPath id="clip87">
+  <rect x="0" y="800.4" width="0" height="9.2">
+    <animate id="wipe87" attributeName="width" from="0" to="480.0" dur="220ms" begin="2958ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="807.8" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip87)">       =########@@@@@@@@@@@%%ssss#%%%%%%###ssssscssssc*+***c*+=s@*=+++*ss###%%%%%%%%%%`             </text>
+<rect x="0" y="800.4" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2958ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2958ms" fill="freeze"/>
+</rect>
+<clipPath id="clip88">
+  <rect x="0" y="809.5999999999999" width="0" height="9.2">
+    <animate id="wipe88" attributeName="width" from="0" to="480.0" dur="220ms" begin="2992ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="817.0" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip88)">       *######%#@@@@@@@@%%%#sscsc#%%%%%%scccccc***++++*****+++*%#++**cssss##%%%%%%%%@@+             </text>
+<rect x="0" y="809.6" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="2992ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="2992ms" fill="freeze"/>
+</rect>
+<clipPath id="clip89">
+  <rect x="0" y="818.8" width="0" height="9.2">
+    <animate id="wipe89" attributeName="width" from="0" to="480.0" dur="220ms" begin="3026ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="826.2" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip89)">       :-:::::-c@@@@@@@@%%#ssccccs#%%%%#c********+++****+++++*#@s**ccss#ssss#%%%%%%%@@#.            </text>
+<rect x="0" y="818.8" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="3026ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="3026ms" fill="freeze"/>
+</rect>
+<clipPath id="clip90">
+  <rect x="0" y="827.9999999999999" width="0" height="9.2">
+    <animate id="wipe90" attributeName="width" from="0" to="480.0" dur="220ms" begin="3060ms" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<text x="0" y="835.4" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="8" fill="#c9d1d9" xml:space="preserve" textLength="480.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip90)">       `==-----c@@@@@@@%%#sscccccc#%%%%sc*******+++**+++++++*s%@sccss####%##%%%%@%%@@@@-            </text>
+<rect x="0" y="828.0" width="3.8" height="7.8" fill="#39d353">
+  <animate attributeName="x" from="0" to="480.0" dur="220ms" begin="3060ms" fill="freeze" calcMode="linear"/>
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.85;1" dur="220ms" begin="3060ms" fill="freeze"/>
+</rect>
+</svg>
