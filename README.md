@@ -17,7 +17,7 @@
 
 <br>
 
-<h3><code>$ career --timeline</code></h3>
+<h3><code>Career --Timeline</code></h3>
 
 <img src="./career-log.svg" width="860" alt="Career timeline" />
 
