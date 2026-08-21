@@ -14,7 +14,7 @@
 
 <br>
 
-<h3><code>avi@github ~ $ cat contact.txt</code></h3>
+
 
 <a href="https://linkedin.com/in/futureishere">LinkedIn</a> &nbsp;·&nbsp; <a href="https://bivonix.com">Bivonix</a>
 
