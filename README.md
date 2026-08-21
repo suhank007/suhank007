@@ -23,13 +23,13 @@
 
 <br><br>
 
-<h3><code>$ impact --metrics</code></h3>
+<h3><code>Impact --metrics</code></h3>
 
 <img src="./impact-metrics.svg" width="860" alt="Impact metrics" />
 
 <br><br>
 
-<h3><code>$ cat contact.txt</code></h3>
+<h3><code>Contact</code></h3>
 
 <a href="https://linkedin.com/in/futureishere">LinkedIn</a> &nbsp;·&nbsp; <a href="https://bivonix.com">Bivonix</a> &nbsp;·&nbsp; <a href="https://suhank007.github.io/">Portfolio</a>
 
