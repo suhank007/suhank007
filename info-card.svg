@@ -16,7 +16,7 @@
   <circle cx="24" cy="17" r="6" fill="#ff5f56"/>
   <circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
   <circle cx="64" cy="17" r="6" fill="#27c93f"/>
-  <text x="280.0" y="21" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" fill="#6e7681">avi@github</text>
+  <text x="280.0" y="21" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" 
   <line x1="28" y1="58" x2="532" y2="58" stroke="#30363d"/>
 <g opacity="0" transform="translate(-14,0)" style="animation: line-in 320ms ease-out 0ms forwards">
   <text x="28" y="78" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14" fill="#7dd3fc" font-weight="600">Now</text>
