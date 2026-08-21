@@ -15,13 +15,13 @@ DIM = "#6e7681"
 ACCENT = "#39d353"
 
 ROWS = [
-    ("Now", "BI & Analytics Lead @ Atlas Copco"),
-    ("Prev", "9 yrs enterprise BI · 5 global industries"),
-    ("Stack", "Power BI · Databricks · SQL/Oracle · Python"),
-    ("PLM", "ENOVIA · 3DEXPERIENCE"),
-    ("Building", "Bivonix — BI + AI consulting studio"),
-    ("Shipping", "Portfolio Builder (Claude API)"),
-    ("Base", "Paris, France"),
+    ("Now", "PM, Data Transformation @ We.PLM x Atlas Copco"),
+    ("Prev", "5.5y Product Owner & BI Consultant, Cognizant"),
+    ("Stack", "Power BI · Databricks · Snowflake · Azure"),
+    ("PLM", "ENOVIA · 3DEXPERIENCE · SAP"),
+    ("AI/ML", "Claude · MCP · LangGraph · RAG"),
+    ("Certs", "PL-300 · Databricks GenAI · SAFe POPM"),
+    ("Base", "Paris · open to relocation"),
 ]
 
 WIDTH = 560

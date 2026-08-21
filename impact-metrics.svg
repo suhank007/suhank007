@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="258" viewBox="0 0 860 258">
+  <style>
+    @keyframes fade-in {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+    </style>
+  <rect x="0.5" y="0.5" width="859" height="257" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="859" height="34" rx="10" fill="#161b22"/>
+  <rect x="0.5" y="24.5" width="859" height="10" fill="#161b22"/>
+  <line x1="0.5" y1="34.5" x2="859.5" y2="34.5" stroke="#30363d"/>
+  <circle cx="24" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="17" r="6" fill="#27c93f"/>
+<text x="28" y="50" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13" fill="#c9d1d9">Reporting adoption</text>
+<rect x="260" y="38" width="500" height="14" rx="4" fill="#161b22"/>
+<clipPath id="barclip0"><rect x="260" y="38" width="0" height="14"><animate attributeName="width" from="0" to="250.0" dur="700ms" begin="0ms" fill="freeze" calcMode="linear"/></rect></clipPath>
+<rect x="260" y="38" width="500" height="14" rx="4" fill="#39d353" clip-path="url(#barclip0)"/>
+<text x="774" y="50" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13" font-weight="600" fill="#39d353" opacity="0" style="animation: fade-in 300ms ease-out 550ms forwards">^ 50%</text>
+<text x="28" y="96" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13" fill="#c9d1d9">Dashboard utilisation</text>
+<rect x="260" y="84" width="500" height="14" rx="4" fill="#161b22"/>
+<clipPath id="barclip1"><rect x="260" y="84" width="0" height="14"><animate attributeName="width" from="0" to="300.0" dur="700ms" begin="160ms" fill="freeze" calcMode="linear"/></rect></clipPath>
+<rect x="260" y="84" width="500" height="14" rx="4" fill="#39d353" clip-path="url(#barclip1)"/>
+<text x="774" y="96" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13" font-weight="600" fill="#39d353" opacity="0" style="animation: fade-in 300ms ease-out 710ms forwards">^ 60%</text>
+<text x="28" y="142" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13" fill="#c9d1d9">Critical production issues</text>
+<rect x="260" y="130" width="500" height="14" rx="4" fill="#161b22"/>
+<clipPath id="barclip2"><rect x="260" y="130" width="0" height="14"><animate attributeName="width" from="0" to="200.0" dur="700ms" begin="320ms" fill="freeze" calcMode="linear"/></rect></clipPath>
+<rect x="260" y="130" width="500" height="14" rx="4" fill="#7dd3fc" clip-path="url(#barclip2)"/>
+<text x="774" y="142" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13" font-weight="600" fill="#7dd3fc" opacity="0" style="animation: fade-in 300ms ease-out 870ms forwards">v 40%</text>
+<text x="28" y="188" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13" fill="#c9d1d9">Delivery risk</text>
+<rect x="260" y="176" width="500" height="14" rx="4" fill="#161b22"/>
+<clipPath id="barclip3"><rect x="260" y="176" width="0" height="14"><animate attributeName="width" from="0" to="150.0" dur="700ms" begin="480ms" fill="freeze" calcMode="linear"/></rect></clipPath>
+<rect x="260" y="176" width="500" height="14" rx="4" fill="#7dd3fc" clip-path="url(#barclip3)"/>
+<text x="774" y="188" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13" font-weight="600" fill="#7dd3fc" opacity="0" style="animation: fade-in 300ms ease-out 1030ms forwards">v 30%</text>
+</svg>

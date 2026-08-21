@@ -19,31 +19,31 @@
   <line x1="28" y1="58" x2="532" y2="58" stroke="#30363d"/>
 <g opacity="0" transform="translate(-14,0)" style="animation: line-in 320ms ease-out 0ms forwards">
   <text x="28" y="78" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14" fill="#7dd3fc" font-weight="600">Now</text>
-  <text x="128" y="78" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">BI &amp; Analytics Lead @ Atlas Copco</text>
+  <text x="128" y="78" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">PM, Data Transformation @ We.PLM x Atlas Copco</text>
 </g>
 <g opacity="0" transform="translate(-14,0)" style="animation: line-in 320ms ease-out 90ms forwards">
   <text x="28" y="112" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14" fill="#7dd3fc" font-weight="600">Prev</text>
-  <text x="128" y="112" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">9 yrs enterprise BI · 5 global industries</text>
+  <text x="128" y="112" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">5.5y Product Owner &amp; BI Consultant, Cognizant</text>
 </g>
 <g opacity="0" transform="translate(-14,0)" style="animation: line-in 320ms ease-out 180ms forwards">
   <text x="28" y="146" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14" fill="#7dd3fc" font-weight="600">Stack</text>
-  <text x="128" y="146" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">Power BI · Databricks · SQL/Oracle · Python</text>
+  <text x="128" y="146" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">Power BI · Databricks · Snowflake · Azure</text>
 </g>
 <g opacity="0" transform="translate(-14,0)" style="animation: line-in 320ms ease-out 270ms forwards">
   <text x="28" y="180" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14" fill="#7dd3fc" font-weight="600">PLM</text>
-  <text x="128" y="180" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">ENOVIA · 3DEXPERIENCE</text>
+  <text x="128" y="180" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">ENOVIA · 3DEXPERIENCE · SAP</text>
 </g>
 <g opacity="0" transform="translate(-14,0)" style="animation: line-in 320ms ease-out 360ms forwards">
-  <text x="28" y="214" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14" fill="#7dd3fc" font-weight="600">Building</text>
-  <text x="128" y="214" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">Bivonix — BI + AI consulting studio</text>
+  <text x="28" y="214" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14" fill="#7dd3fc" font-weight="600">AI/ML</text>
+  <text x="128" y="214" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">Claude · MCP · LangGraph · RAG</text>
 </g>
 <g opacity="0" transform="translate(-14,0)" style="animation: line-in 320ms ease-out 450ms forwards">
-  <text x="28" y="248" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14" fill="#7dd3fc" font-weight="600">Shipping</text>
-  <text x="128" y="248" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">Portfolio Builder (Claude API)</text>
+  <text x="28" y="248" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14" fill="#7dd3fc" font-weight="600">Certs</text>
+  <text x="128" y="248" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">PL-300 · Databricks GenAI · SAFe POPM</text>
 </g>
 <g opacity="0" transform="translate(-14,0)" style="animation: line-in 320ms ease-out 540ms forwards">
   <text x="28" y="282" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="14" fill="#7dd3fc" font-weight="600">Base</text>
-  <text x="128" y="282" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">Paris, France</text>
+  <text x="128" y="282" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5" fill="#c9d1d9">Paris · open to relocation</text>
 </g>
 
   <rect x="28" y="305" width="8" height="14" fill="#39d353"
