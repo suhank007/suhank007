@@ -1,12 +1,9 @@
 <div align="center">
 
-
-
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
 
 <br><br>
 
-<h3><code>avi@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
