@@ -37,6 +37,18 @@
 
 <br><br>
 
+<h3><code>Education</code></h3>
+
+<img src="./education.svg" width="860" alt="Education and publication" />
+
+<br><br>
+
+<h3><code>Skills</code></h3>
+
+<img src="./skills.svg" width="860" alt="Skills" />
+
+<br><br>
+
 <h3><code>Contact</code></h3>
 
 <a href="https://linkedin.com/in/futureishere">LinkedIn</a> &nbsp;·&nbsp; <a href="https://bivonix.com">Bivonix</a> &nbsp;·&nbsp; <a href="https://suhank007.github.io/">Portfolio</a>

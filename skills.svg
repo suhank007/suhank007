@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="552" viewBox="0 0 860 552.0">
+  <style>
+    @keyframes fade-in {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+    @keyframes chip-in {
+      from { opacity: 0; transform: translate(0, 6px); }
+      to   { opacity: 1; transform: translate(0, 0); }
+    }
+    </style>
+  <rect x="0.5" y="0.5" width="859" height="551.0" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="859" height="34" rx="10" fill="#161b22"/>
+  <rect x="0.5" y="24.5" width="859" height="10" fill="#161b22"/>
+  <line x1="0.5" y1="34.5" x2="859.5" y2="34.5" stroke="#30363d"/>
+  <circle cx="24" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="17" r="6" fill="#27c93f"/>
+<text x="28" y="42" opacity="0" style="animation: fade-in 260ms ease-out 0ms forwards" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#7dd3fc">BI &amp; Visualisation</text>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 120ms forwards">
+  <rect x="28" y="56" width="80.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="68.4" y="73" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Power BI</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 142ms forwards">
+  <rect x="116.8" y="56" width="74.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="153.9" y="73" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Tableau</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 164ms forwards">
+  <rect x="199.0" y="56" width="80.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="239.4" y="73" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">QlikView</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 186ms forwards">
+  <rect x="287.8" y="56" width="87.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="331.5" y="73" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Oracle BI</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 208ms forwards">
+  <rect x="383.20000000000005" y="56" width="113.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="440.1" y="73" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">MicroStrategy</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 230ms forwards">
+  <rect x="505.00000000000006" y="56" width="67.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="538.8" y="73" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Cognos</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 252ms forwards">
+  <rect x="580.6" y="56" width="80.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="621.0" y="73" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Spotfire</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 274ms forwards">
+  <rect x="669.4" y="56" width="80.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="709.8" y="73" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Sigma BI</text>
+</g>
+<text x="28" y="116" opacity="0" style="animation: fade-in 260ms ease-out 260ms forwards" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#7dd3fc">Data Platforms</text>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 556ms forwards">
+  <rect x="28" y="130" width="94.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="75.0" y="147" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Databricks</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 578ms forwards">
+  <rect x="130.0" y="130" width="87.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="173.7" y="147" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Snowflake</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 600ms forwards">
+  <rect x="225.4" y="130" width="146.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="298.8" y="147" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Azure Data Factory</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 622ms forwards">
+  <rect x="380.20000000000005" y="130" width="47.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="404.1" y="147" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">DBT</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 644ms forwards">
+  <rect x="436.00000000000006" y="130" width="94.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="483.0" y="147" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">SQL Server</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 666ms forwards">
+  <rect x="538.0" y="130" width="47.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="561.9" y="147" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">ETL</text>
+</g>
+<text x="28" y="190" opacity="0" style="animation: fade-in 260ms ease-out 520ms forwards" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#7dd3fc">PLM &amp; Enterprise</text>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 948ms forwards">
+  <rect x="28" y="204" width="67.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="61.8" y="221" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">ENOVIA</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 970ms forwards">
+  <rect x="103.6" y="204" width="107.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="157.2" y="221" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">3DEXPERIENCE</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 992ms forwards">
+  <rect x="218.79999999999998" y="204" width="47.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="242.7" y="221" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">SAP</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 1014ms forwards">
+  <rect x="274.59999999999997" y="204" width="87.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="318.3" y="221" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">EBOM/MBOM</text>
+</g>
+<text x="28" y="264" opacity="0" style="animation: fade-in 260ms ease-out 780ms forwards" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#7dd3fc">Cloud</text>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 1296ms forwards">
+  <rect x="28" y="278" width="61.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="58.5" y="295" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Azure</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 1318ms forwards">
+  <rect x="97.0" y="278" width="133.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="163.8" y="295" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Microsoft Fabric</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 1340ms forwards">
+  <rect x="238.6" y="278" width="47.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="262.5" y="295" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">AWS</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 1362ms forwards">
+  <rect x="294.4" y="278" width="107.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="348.0" y="295" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Azure DevOps</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 1384ms forwards">
+  <rect x="409.59999999999997" y="278" width="120.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="469.8" y="295" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Power Platform</text>
+</g>
+<text x="28" y="338" opacity="0" style="animation: fade-in 260ms ease-out 1040ms forwards" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#7dd3fc">Languages</text>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 1666ms forwards">
+  <rect x="28" y="352" width="67.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="61.8" y="369" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Python</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 1688ms forwards">
+  <rect x="103.6" y="352" width="153.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="180.3" y="369" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">SQL (T-SQL, Oracle)</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 1710ms forwards">
+  <rect x="265.0" y="352" width="34.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="282.3" y="369" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">R</text>
+</g>
+<text x="28" y="412" opacity="0" style="animation: fade-in 260ms ease-out 1300ms forwards" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5" font-weight="600" fill="#7dd3fc">AI &amp; Machine Learning</text>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 1992ms forwards">
+  <rect x="28" y="426" width="67.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="61.8" y="443" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Claude</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2014ms forwards">
+  <rect x="103.6" y="426" width="113.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="160.5" y="443" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Anthropic API</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2036ms forwards">
+  <rect x="225.39999999999998" y="426" width="94.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="272.4" y="443" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">OpenAI API</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2058ms forwards">
+  <rect x="327.4" y="426" width="47.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="351.3" y="443" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">RAG</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2080ms forwards">
+  <rect x="383.2" y="426" width="87.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="426.9" y="443" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">LangGraph</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2102ms forwards">
+  <rect x="478.6" y="426" width="47.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="502.5" y="443" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">MCP</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2124ms forwards">
+  <rect x="534.4000000000001" y="426" width="153.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="611.1" y="443" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Agent Orchestration</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2146ms forwards">
+  <rect x="695.8" y="426" width="107.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="749.4" y="443" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Hugging Face</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2168ms forwards">
+  <rect x="28" y="460" width="67.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="61.8" y="477" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Ollama</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2190ms forwards">
+  <rect x="103.6" y="460" width="94.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="150.6" y="477" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Embeddings</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2212ms forwards">
+  <rect x="205.6" y="460" width="80.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="246.0" y="477" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">pgvector</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2234ms forwards">
+  <rect x="294.4" y="460" width="80.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="334.8" y="477" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Pinecone</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2256ms forwards">
+  <rect x="383.2" y="460" width="127.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="446.7" y="477" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Azure AI Search</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2278ms forwards">
+  <rect x="518.2" y="460" width="87.4" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="561.9" y="477" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Reranking</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2300ms forwards">
+  <rect x="613.6" y="460" width="74.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="650.7" y="477" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">PyTorch</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2322ms forwards">
+  <rect x="695.8" y="460" width="107.2" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="749.4" y="477" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Scikit-learn</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2344ms forwards">
+  <rect x="28" y="494" width="67.6" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="61.8" y="511" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Docker</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2366ms forwards">
+  <rect x="103.6" y="494" width="94.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="150.6" y="511" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Kubernetes</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2388ms forwards">
+  <rect x="205.6" y="494" width="61.0" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="236.1" y="511" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">CI/CD</text>
+</g>
+<g opacity="0" transform="translate(0,6)" style="animation: chip-in 220ms ease-out 2410ms forwards">
+  <rect x="274.6" y="494" width="146.8" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="348.0" y="511" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#c9d1d9">Prompt Engineering</text>
+</g>
+</svg>
