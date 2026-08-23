@@ -1,5 +1,13 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="suhank007's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+<br><br>
+
 <h3><code>Contributions</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
