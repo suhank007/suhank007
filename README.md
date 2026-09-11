@@ -8,6 +8,10 @@
 
 <br><br>
 
+<img src="./achievements.svg" width="860" alt="Achievements" />
+
+<br><br>
+
 <h3><code>Contributions</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
@@ -24,6 +28,10 @@
 </table>
 
 <br>
+
+<img src="./hero-live.gif" width="300" alt="Live portrait" />
+
+<br><br>
 
 <h3><code>Career --Timeline</code></h3>
 

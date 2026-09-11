@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="248" viewBox="0 0 860 248.0">
+  <style>
+    @keyframes card-in {
+      from { opacity: 0; transform: translate(0,10px) scale(0.97); }
+      to   { opacity: 1; transform: translate(0,0) scale(1); }
+    }
+    </style>
+  <rect x="0.5" y="0.5" width="859" height="247.0" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="859" height="34" rx="10" fill="#161b22"/>
+  <rect x="0.5" y="24.5" width="859" height="10" fill="#161b22"/>
+  <line x1="0.5" y1="34.5" x2="859.5" y2="34.5" stroke="#30363d"/>
+  <circle cx="24" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="17" r="6" fill="#27c93f"/>
+  <text x="430.0" y="22" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" fill="#7d8590">~/achievements</text>
+<g opacity="0" transform="translate(0,10) scale(0.97)" style="animation: card-in 360ms cubic-bezier(.2,.7,.3,1) 0ms forwards">
+  <rect x="28.0" y="26.0" width="258.7" height="92" rx="10" fill="#11161d" stroke="#30363d"/>
+  <circle cx="63.0" cy="61.0" r="17.0" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(55.0,53.0) scale(0.6667)" fill="none" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15.477 12.89 1.515 8.526a.5.5 0 0 1-.81.47l-3.58-2.687a1 1 0 0 0-1.197 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1.514-8.526" />
+  <circle cx="12" cy="8" r="6" /></g>
+  <text x="90.0" y="56" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#e6edf3">7+ yrs</text>
+  <text x="46.0" y="82" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">BI &amp; data product</text><text x="46.0" y="97" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">leadership</text>
+</g>
+<g opacity="0" transform="translate(0,10) scale(0.97)" style="animation: card-in 360ms cubic-bezier(.2,.7,.3,1) 90ms forwards">
+  <rect x="300.7" y="26.0" width="258.7" height="92" rx="10" fill="#11161d" stroke="#30363d"/>
+  <circle cx="335.7" cy="61.0" r="17.0" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(327.7,53.0) scale(0.6667)" fill="none" stroke="#39d353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 7h6v6" />
+  <path d="m22 7-8.5 8.5-5-5L2 17" /></g>
+  <text x="362.7" y="56" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#e6edf3">+60%</text>
+  <text x="318.6666666666667" y="82" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">Dashboard</text><text x="318.6666666666667" y="97" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">utilisation</text>
+</g>
+<g opacity="0" transform="translate(0,10) scale(0.97)" style="animation: card-in 360ms cubic-bezier(.2,.7,.3,1) 180ms forwards">
+  <rect x="573.3" y="26.0" width="258.7" height="92" rx="10" fill="#11161d" stroke="#30363d"/>
+  <circle cx="608.3" cy="61.0" r="17.0" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(600.3,53.0) scale(0.6667)" fill="none" stroke="#39d353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 17h6v-6" />
+  <path d="m22 17-8.5-8.5-5 5L2 7" /></g>
+  <text x="635.3" y="56" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#e6edf3">−40%</text>
+  <text x="591.3333333333334" y="82" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">Critical production</text><text x="591.3333333333334" y="97" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">issues</text>
+</g>
+<g opacity="0" transform="translate(0,10) scale(0.97)" style="animation: card-in 360ms cubic-bezier(.2,.7,.3,1) 270ms forwards">
+  <rect x="28.0" y="132.0" width="258.7" height="92" rx="10" fill="#11161d" stroke="#30363d"/>
+  <circle cx="63.0" cy="167.0" r="17.0" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(55.0,159.0) scale(0.6667)" fill="none" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z" />
+  <path d="M22 10v6" />
+  <path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5" /></g>
+  <text x="90.0" y="162" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#e6edf3">Distinction</text>
+  <text x="46.0" y="188" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">M.Sc., Toulouse</text><text x="46.0" y="203" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">Business School</text>
+</g>
+<g opacity="0" transform="translate(0,10) scale(0.97)" style="animation: card-in 360ms cubic-bezier(.2,.7,.3,1) 360ms forwards">
+  <rect x="300.7" y="132.0" width="258.7" height="92" rx="10" fill="#11161d" stroke="#30363d"/>
+  <circle cx="335.7" cy="167.0" r="17.0" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(327.7,159.0) scale(0.6667)" fill="none" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z" />
+  <path d="m16 9-5.5 5.5L8 12" /></g>
+  <text x="362.7" y="162" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#e6edf3">3x Certified</text>
+  <text x="318.6666666666667" y="188" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">PL-300 · Databricks GenAI</text><text x="318.6666666666667" y="203" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">SAFe POPM</text>
+</g>
+<g opacity="0" transform="translate(0,10) scale(0.97)" style="animation: card-in 360ms cubic-bezier(.2,.7,.3,1) 450ms forwards">
+  <rect x="573.3" y="132.0" width="258.7" height="92" rx="10" fill="#11161d" stroke="#30363d"/>
+  <circle cx="608.3" cy="167.0" r="17.0" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(600.3,159.0) scale(0.6667)" fill="none" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 12h4" />
+  <path d="M10 8h4" />
+  <path d="M14 21v-3a2 2 0 0 0-4 0v3" />
+  <path d="M6 10H4a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-2" />
+  <path d="M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16" /></g>
+  <text x="635.3" y="162" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#e6edf3">8 enterprise</text>
+  <text x="591.3333333333334" y="188" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">clients across 6</text><text x="591.3333333333334" y="203" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b949e">industries</text>
+</g>
+</svg>

@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """Full skills panel: category label followed by wrapped, staggered
-chips. Same visual language as the career-log client chips."""
+chips, each carrying a small monoline tool icon. Same visual language
+as the career-log client chips."""
 import os
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from icon_lib import render_icon, has_icon  # noqa: E402
 
 WIDTH = 860
 BG = "#0d1117"
@@ -36,6 +40,8 @@ CHIP_PAD_X = 14
 CHIP_CHAR_W = 6.6
 CHIP_STAGGER_MS = 22
 CAT_STAGGER_MS = 260
+ICON_SIZE = 13
+ICON_GAP = 6
 
 
 def esc(s: str) -> str:
@@ -46,11 +52,12 @@ def layout_chips(items, max_w):
     cx, cy = 0, 0
     placed = []
     for name in items:
-        w = len(name) * CHIP_CHAR_W + CHIP_PAD_X * 2
+        icon_w = (ICON_SIZE + ICON_GAP) if has_icon(name) else 0
+        w = len(name) * CHIP_CHAR_W + CHIP_PAD_X * 2 + icon_w
         if cx + w > max_w and cx > 0:
             cx = 0
             cy += CHIP_H + CHIP_ROW_GAP
-        placed.append((name, cx, cy, w))
+        placed.append((name, cx, cy, w, icon_w))
         cx += w + 8
     return placed, cy + CHIP_H
 
@@ -74,7 +81,7 @@ def build_svg(static: bool) -> str:
         )
         chips_top = y + 26
         placed, block_h = layout_chips(items, max_w)
-        for name, cx, cy_, w in placed:
+        for name, cx, cy_, w, icon_w in placed:
             x = 28 + cx
             cy_abs = chips_top + cy_
             delay = cat_delay + 120 + chip_index * CHIP_STAGGER_MS
@@ -87,10 +94,21 @@ def build_svg(static: bool) -> str:
                 chip_opacity = 'opacity="0"'
                 chip_transform = 'transform="translate(0,6)"'
                 chip_style = f'style="animation: chip-in 220ms ease-out {delay}ms forwards"'
+            if icon_w:
+                icon_svg = render_icon(
+                    name, x + CHIP_PAD_X, cy_abs + (CHIP_H - ICON_SIZE) / 2, ICON_SIZE, CATEGORY_COLOR
+                )
+                text_x = x + CHIP_PAD_X + icon_w
+                text_anchor = "start"
+            else:
+                icon_svg = ""
+                text_x = x + w / 2
+                text_anchor = "middle"
             blocks.append(
                 f'''<g {chip_opacity} {chip_transform} {chip_style}>
   <rect x="{x}" y="{cy_abs}" width="{w:.1f}" height="{CHIP_H}" rx="13" fill="{CHIP_BG}" stroke="{BORDER}"/>
-  <text x="{x + w / 2:.1f}" y="{cy_abs + 17}" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="{CHIP_TEXT}">{esc(name)}</text>
+  {icon_svg}
+  <text x="{text_x:.1f}" y="{cy_abs + 17}" text-anchor="{text_anchor}" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="{CHIP_TEXT}">{esc(name)}</text>
 </g>'''
             )
         y = chips_top + block_h + CAT_GAP

@@ -3,3 +3,4 @@ source-prepped.png
 preview.html
 __pycache__/
 *.pyc
+scripts/icon_cache/_*
