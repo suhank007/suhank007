@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./hero-live.gif" width="300" alt="Live portrait" />
+
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
@@ -9,6 +13,10 @@
 <br><br>
 
 <img src="./achievements.svg" width="860" alt="Achievements" />
+
+<br><br>
+
+<img src="./location-map.svg" width="860" alt="Location and availability" />
 
 <br><br>
 
@@ -28,10 +36,6 @@
 </table>
 
 <br>
-
-<img src="./hero-live.gif" width="300" alt="Live portrait" />
-
-<br><br>
 
 <h3><code>Career --Timeline</code></h3>
 
