@@ -11,7 +11,7 @@ Connecting business strategy, analytics, AI and product lifecycle management.
 </p>
 
 <img
-  src="./Ankit-GitHub.gif"
+  src="./hero-live.gif"
   width="420"
   alt="Ankit Parihar — animated portrait with global intelligence, AI and analytics visuals"
 />
